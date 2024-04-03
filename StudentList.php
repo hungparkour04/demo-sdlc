@@ -7,8 +7,8 @@
     <style>
 body {
     font-family: Arial, sans-serif;
-    background-color: #99ebff; /* Deep blue background for the body */
-    color: #ffffff; /* Adding white text for better readability */
+    background-color: #ccf5ff; /* Deep blue background for the body */
+    color: #ccf5ff; /* Adding white text for better readability */
     margin: 0;
     padding: 0;
     height: 100px;
@@ -18,10 +18,10 @@ body {
     width: 100%;
     margin: 20px auto;
     border-collapse: collapse;
-    background-color: #fff; /* Keeping table background white for contrast */
+    background-color: #ccf5ff; /* Keeping table background white for contrast */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     overflow: scroll;
-    height: 300px;
+    height: 700px;
 }
 table {
     width: 80%;
@@ -29,6 +29,7 @@ table {
     border-collapse: collapse;
     background-color: #fff;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    
   
 }
 th, td {

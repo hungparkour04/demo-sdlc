@@ -6,10 +6,11 @@
     <title>Edit Student</title>
     <button><a class="aaa" href="StudentList.php">Back</a></button>
 
+
     <style>
             body {
             font-family: Arial, sans-serif;
-            background-color: #00ccff;
+            background-color:  #1ac6ff;
             margin: 0;
             padding: 0;
             height: 100%;
@@ -19,7 +20,7 @@
             width: 80%;
             margin: 20px auto;
             border-collapse: collapse;
-            background-color: #fff;
+            background-color:   #99e6ff;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         }
         caption {
@@ -74,6 +75,7 @@
             color:white;
             font-size: 30px;
         }
+        
     </style>
 </head>
 <body>
@@ -127,7 +129,7 @@
             </tr>
             <tr>
                 <td>Student Email</td>
-                <td><input type="text" name="Email" value="<?php echo $row['Email']; ?>"/> (*)</td>
+                <td><input type="text" name="Email" value="<?php echo $row['Email']; ?>"/></td>
             </tr>
             <tr>
                 <td colspan="2" align="center">

@@ -54,13 +54,13 @@
         </table>
         <style>
         body {
-            background-color: #f0f8ff; /* Màu nền xanh da trời */
+            background-color:  #007399; /* Màu nền xanh da trời */
         }
         form {
             width: 50%; /* Đặt chiều rộng của form */
             margin: 0 auto; /* Để căn giữa form */
             padding: 20px; /* Thêm khoảng cách giữa biên và nội dung form */
-            background-color: white; /* Màu nền trắng */
+            background-color:  #b3ffff; /* Màu nền trắng */
             border-radius: 10px; /* Bo tròn góc */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Đổ bóng */
         }
