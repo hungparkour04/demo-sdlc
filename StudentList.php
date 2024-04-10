@@ -89,6 +89,9 @@ logout-btn {
 button{
     background:  #00ccff;
 }
+button{
+    background:  #99ffff;
+}
 
     </style>
     
@@ -166,7 +169,7 @@ button{
         
             <?php } ?>
 
-            <td><a href="AddStudent.php">Add New Student</a></td>
+            <td><button><a href="AddStudent.php">Add New Student</a></td></button>
             
             
 
