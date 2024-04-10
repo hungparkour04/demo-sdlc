@@ -86,6 +86,9 @@ logout-btn {
     margin: 4px 2px;
     cursor: pointer;
 }
+button{
+    background:  #00ccff;
+}
 
     </style>
     
