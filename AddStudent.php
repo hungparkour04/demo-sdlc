@@ -96,8 +96,7 @@
             font-size: 40px;
         }
         button{
-            background:  #33d6ff;
-
+            background: #80ffff;
         }
     </style>
     </form>
